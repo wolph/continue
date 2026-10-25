@@ -17,7 +17,7 @@
     "@continuedev/fetch": "^1.0.3",
     "node-fetch": "^3.3.2",
     "openai": "^4.76.0",
-    "zod": "^3.23.8"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/follow-redirects": "^1.14.4",
